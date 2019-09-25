@@ -5,7 +5,7 @@
 <?php
 
 if(2===3){  
-	return ("flag_is_here");\
+	return ("flag_is_here");
 }
 
 ?>
