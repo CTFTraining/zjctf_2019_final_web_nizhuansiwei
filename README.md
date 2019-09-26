@@ -2,6 +2,7 @@
 ## run
 ```bash
 docker-compose up -d
+open http://127.0.0.1:8302/
 ```
 ## FLAG
 you can change flag in docker-compose.yml
