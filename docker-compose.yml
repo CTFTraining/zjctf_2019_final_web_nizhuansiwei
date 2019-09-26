@@ -4,7 +4,7 @@ services:
 
   web:
     build: .
-    image: zjctf_2019_final_nizhuansiwei
+    image: ctftraining/zjctf_2019_final_nizhuansiwei
     restart: always
     ports:
       - "8302:80"
