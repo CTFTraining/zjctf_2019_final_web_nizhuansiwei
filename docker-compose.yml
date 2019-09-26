@@ -7,6 +7,6 @@ services:
     image: zjctf_2019_final_nizhuansiwei
     restart: always
     ports:
-      - "80:80"
+      - "8302:80"
     environment:
       - FLAG=flag{glzjin_wants_a_girl_firend}
